@@ -1,1 +1,3 @@
 # workout_tracker
+
+For this assignment I created a back end data log for tracking daily workouts. It is capable of recording the type of exercise, weight, sets, reps, and duration. The user is able to accurately track distance traveled in any cardio exercises as well. For the application's user interface, the user is able to add exercises to new and previous workout plans. There is also a separate "stats" page where the user can view his/her combined weights.
